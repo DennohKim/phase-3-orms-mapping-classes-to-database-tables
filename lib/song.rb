@@ -47,18 +47,18 @@ class Song
   end
 end
 
-gold_digger = Song.new(name: "Gold Digger", album: "Late Registration")
+# gold_digger = Song.new(name: "Gold Digger", album: "Late Registration")
 
-gold_digger.name
-gold_digger.album
+# gold_digger.name
+# gold_digger.album
 
-hello = Song.new(name: "Hello", album: "25")
-hello.save
+# hello = Song.new(name: "Hello", album: "25")
+# hello.save
 
-ninety_nine_problems = Song.new(name: "99 Problems", album: "The Black Album")
-ninety_nine_problems.save
+# ninety_nine_problems = Song.new(name: "99 Problems", album: "The Black Album")
+# ninety_nine_problems.save
 
-song = Song.new(name: "chizaa", album:"feels sleepy")
+# song = Song.new(name: "chizaa", album:"feels sleepy")
 
 
 
